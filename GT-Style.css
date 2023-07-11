@@ -1,0 +1,1430 @@
+body{
+    margin: 0%;
+    font-family: 'Open Sans', sans-serif;
+}
+.top-header{
+    padding-left: 10px;
+    padding-right: 40px;
+    background-color: black;
+    display: flex;
+    height: 76px;
+    font-family: 'Open Sans', sans-serif;
+   align-items: center;
+   color: #fff;
+    
+}
+.top-header-logo{
+   
+    width: 253px;
+
+}
+.top-header-logo img{
+    width: 202px;
+    padding-left: 18px;
+}
+.top-header-navigation{
+    flex: 2;
+   display: flex;
+   
+   
+
+  
+
+}
+.top-header-navigation ul li{
+    list-style: none;
+    display: inline-block;
+   
+    
+}
+.top-header-navigation ul li a{
+    text-decoration: none;
+    font-size: 14px;
+    line-height: 18px;
+    font-family: 'Open Sans', sans-serif;
+    color:#fff;
+    font-weight: 600;
+    padding-left: 35px;
+    align-items: center;
+    margin: 0%;
+   
+    
+}
+.top-header-navigation ul li a:hover{
+
+    color: #d1291c;
+}
+.top-header-login{
+    align-items: center;
+    text-align: center;
+   width: 254px;
+   display: inline-block;
+   display: flex;
+
+}
+
+.top-header-login h6{
+    font-weight: 600;
+    font-size: 14px;
+    margin: 0%;
+   
+}
+.top-header-login-search-icon{
+    height: 25px;
+    width: 25px;
+   padding-left: 25px;
+   
+}
+.top-header-login-Indian-flag{
+    height: 40px;
+    width: 40px;
+    padding-left: 25px;
+    
+    
+}
+.top-header-login-langague{
+    padding-left: 25px;
+}
+.down-header-OG{
+    display: flex;
+    background-color:  #212121;
+    color: #fff;
+    margin: 0%;
+    align-items: center;
+}
+.down-header{
+    background-color:  #212121;
+    color: #fff;
+    margin: 0%;
+    display: flex;
+    align-items: center;
+    width:1160px;
+}
+.down-header h1{
+    margin: 0;
+    font-size: 29px;
+    padding-left: 33px;
+    font-weight: 500;
+}
+.down-header ul li{
+    list-style: none;
+    display: inline-block;
+    padding-left: 30px;
+}
+.down-header ul li a{
+    font-size: 14px;
+    text-decoration: none;
+    color: #fff;
+    
+}
+.down-header ul li a:hover{
+    color: #d1291c;
+}
+.down-header-button button{
+    background-color: #e5e3e3;
+    color: #000;
+    border-radius: 0%;
+    width: 167px;
+    height: 40px;
+    font-size: 17px;
+
+
+}
+.book-a-test-ride{
+    background-color: #d1291c;
+    color: #fff;
+    border-radius: 0%;
+    width: 167px;
+    height: 40px;
+    font-size: 15px;
+    margin-left: 16px;
+    border-color: #202021;
+    font-weight: 550;
+}
+.Motorcycles-continental-GT{
+    background-color: #202021;
+    color: #fff;
+    margin: 0%;
+    display: flex;
+    align-items: center;
+    padding-top: 10px;
+    padding-bottom: 7px;
+
+}
+.Motorcycles-continental-GT-home-image{
+    height: 20px;
+    width: 20px;
+    margin-left: 20px;
+   
+
+}
+.Motorcycles-continental-GT ul{
+    margin: -3%;
+}
+
+.Motorcycles-continental-GT ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 0%;
+    font-size: 14px;
+}
+.GT-650-New-Models img{
+    height: 100%;
+    width: 100%;
+}
+.GT-650-Cafe-Racer{
+
+    position: relative;
+}
+.GT-650-Cafe-Racer img{
+    height: 100%;
+    width: 100%;
+   margin-top: -5px;
+
+}
+.GT-650-Cafe-Racer-Text{
+    left: 10px;
+    
+
+}
+.GT-650-Cafe-Racer-Text h2{
+    position: absolute;
+    width: 350px;
+    font-weight: 600;
+    color: #fff;
+    font-size: 24px;
+    line-height: 28px;
+    margin: 0%;
+    top: 184px;
+    left: 1072px;
+    right: 10px;
+   
+    margin-bottom: 0px;
+
+}
+.GT-650-Cafe-Racer-Text p{
+    position: absolute;
+    width: 327px;
+    font-weight: normal;
+    color: #fff;
+    font-size: 14px;
+    line-height: 22px;
+    margin: 0%;
+    top: 229px;
+    left: 1072px;
+    right: 10px;
+
+}
+.GT-650-All-Black{
+    position: relative;
+
+}
+.GT-650-All-Black img{
+    height: 100%;
+    width: 100%;
+   margin-top: -5px;
+
+}
+.GT-650-All-Black-Text h2{
+    position: absolute;
+    width: 350px;
+    font-weight: 600;
+    color: #fff;
+    font-size: 24px;
+    line-height: 28px;
+    margin: 0%;
+    top: 238px;
+    left: 1082px;
+    right: 10px;
+   
+    margin-bottom: 0px;
+}
+.GT-650-All-Black-Text p{
+    position: absolute;
+    width: 327px;
+    font-weight: normal;
+    color: #fff;
+    font-size: 14px;
+    line-height: 22px;
+    margin: 0%;
+    top: 281px;
+    left: 1082px;
+    right: 10px;
+
+}
+.GT-650-Engine-Spec{
+    position: relative;
+
+}
+.GT-650-Engine-Spec img{
+    height: 100%;
+    width: 100%;
+   margin-top: -5px;
+
+}
+.GT-650-Engine-Spec-Text h2{
+    position: absolute;
+    width: 350px;
+    font-weight: 600;
+    color: #fff;
+    font-size: 24px;
+    line-height: 28px;
+    margin: 0%;
+    top: 223px;
+    left: 1086px;
+    right: 10px;
+   
+    margin-bottom: 0px;
+
+}
+.GT-650-Engine-Spec-Text p{
+    position: absolute;
+    width: 327px;
+    font-weight: normal;
+    color: #fff;
+    font-size: 14px;
+    line-height: 22px;
+    margin: 0%;
+    top: 270px;
+    left: 1088px;
+    right: 10px;
+
+}
+.GT-650-Turn-on-Fun{
+    position: relative;
+
+}
+.GT-650-Turn-on-Fun img{
+    height: 100%;
+    width: 100%;
+   margin-top: -5px;
+
+}
+.GT-650-Turn-on-Fun-Text h2{
+    position: absolute;
+    width: 350px;
+    font-weight: 600;
+    color: #fff;
+    font-size: 24px;
+    line-height: 28px;
+    margin: 0%;
+    top: 223px;
+    left: 1086px;
+    right: 10px;
+    margin-bottom: 0px;
+
+}
+.GT-650-Turn-on-Fun-Text p{
+    position: absolute;
+    width: 327px;
+    font-weight: normal;
+    color: #fff;
+    font-size: 14px;
+    line-height: 22px;
+    margin: 0%;
+    top: 270px;
+    left: 1088px;
+    right: 10px;
+
+}
+.GT-650-Higlights{
+    background-color: #fff;
+    
+}
+
+.Higlights-Content{
+    margin-left: 70px;
+    padding-top: 70px;
+    padding-bottom: 60px;
+    height: 500px;
+}
+.Higlights-Content h2 {
+    font-size: 36px;
+    margin: 0;
+   padding-bottom: 30px;
+   -webkit-text-stroke: 0.8px;
+}
+.Higlights-Content-Main{
+    height: 430px;
+    width: 1366px;
+    display: flex;
+    border-left: 1.5px solid #000;
+    border-right: 1.5px solid #000;
+}
+.LED-Headlamp-Image{
+    border-top: 0;
+    border-bottom: 0;
+    border-right: 0;
+    border-right: 1.5px solid black;
+    width: 1050px;
+    position: relative;
+    display: flex;
+}
+.Header-Image{
+    width: 730.1px;
+    padding: 1.25em;
+    margin-left: 36px;
+}
+.Header-Image-content{
+    width: 66.666667%;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.Header-Image-content h3{
+    color: #da291c;
+    padding-bottom: 8px;
+    opacity: 1;
+    font-size: 26px;
+    line-height: 30px;
+    margin: 0%;
+}
+.Header-Image-content p{
+    font-size: 14px;
+    line-height: 22px;
+    margin: 0;
+    word-break: break-word;
+    width: 374px;
+}
+.Header-Image-content img{
+    width: 115%;
+    margin-top: 24px;
+    margin-left: 60px;
+}
+.cast-Alloy-wheel{
+    width: 84px;
+    border-right: 1.5px solid black;
+   
+}
+.cast-Alloy-wheel h3{
+    writing-mode: vertical-rl;
+    font-size: 18px;
+    line-height: 22px;
+    transform: rotate(180deg);
+    padding: 50px 30px;
+    margin: 0;
+    -webkit-text-stroke: 0.5px;
+    padding-bottom: 230px;
+}
+.Premium-Switch-Cubes{
+    width: 84px;
+    border-right: 1.5px solid black;
+   
+
+}
+.Premium-Switch-Cubes h3{
+    writing-mode: vertical-rl;
+    font-size: 18px;
+    line-height: 22px;
+    transform: rotate(180deg);
+    padding: 50px 30px;
+    margin: 0;
+    -webkit-text-stroke: 0.5px;
+    padding-bottom: 183px;
+
+}
+.USB-Port{
+    width: 84px;
+    border-right: 1.5px solid black;
+}
+.USB-Port h3{
+    writing-mode: vertical-rl;
+    font-size: 18px;
+    line-height: 22px;
+    transform: rotate(180deg);
+    padding: 50px 30px;
+    margin: 0;
+    -webkit-text-stroke: 0.5px;
+    padding-bottom: 304px;
+
+}
+.Tried-and-tested-Suspension{
+    width: 84px;
+    border-right: 1.5px solid black;
+}
+.Tried-and-tested-Suspension h3{
+    writing-mode: vertical-rl;
+    font-size: 18px;
+    line-height: 22px;
+    transform: rotate(180deg);
+    padding: 50px 30px;
+    margin: 0;
+    -webkit-text-stroke: 0.5px;
+    padding-bottom: 135px;
+
+}
+.GT-650-colours{
+    background-color: #f1f1f1;
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 70px;
+    padding-bottom: 20px;
+    
+}
+.GT-650-colours h2{
+    font-size: 36px;
+    -webkit-text-stroke: 0.8px;
+    padding-bottom: 30px;
+    margin: 0%;
+}
+.Image-and-colour{
+
+    display: flex;
+   
+    margin-right: 0px;
+    margin-left: 0px;
+    
+}
+.GT-650-360-image{
+    flex: 1;
+}
+.GT-650-360-image-Bike{
+    height: 80%;
+    width: 100%;
+}
+.GT-360-logo {
+    width: 30px;
+    height: 30px;
+    margin: 0%;
+    padding-left: 310px;
+    margin-top: -15px;
+}
+.GT-650-360-image p{
+    margin: 0;
+    padding-left: 168px;
+}
+.GT-650-colour{
+    flex: 1;
+    padding-left: 80px;
+}
+.GT-650-colour h2{
+    font-size: 26px;
+    line-height: 30px;
+    -webkit-text-stroke: 0.5px;
+    padding-bottom: 20px;
+    margin: 0;
+
+}
+.EX-showroom{
+    color: #666;
+    font-size: 14px;
+    margin: 0%;
+}
+.EX-showroom-price{
+    color: #000;
+    font-size: 22px;
+    line-height: 26px;
+    -webkit-text-stroke: 0.9px;
+    padding: 0;
+    margin:0;
+}
+.GT-650-Button button{
+    padding: 10px 32px 10px 14px;
+    border-width: 1.5px;
+    font-weight: bold;
+    font-size: 14px;
+    width: 235px;
+    margin: 30px 0 50px;
+    border-style: solid;
+    
+}
+.GT-650-Button button:hover{
+    color: #fff;
+    background-color: #000;
+}
+.GT-650-New-colours{
+    padding-top: 70px;
+   
+ 
+   
+    
+}
+.GT-650-New-colours p{
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 26px;
+    padding-left: 45px;
+}
+.Left-arrow{
+   height: 20px;
+}
+.Colour-Picking{
+    display: flex;
+    padding-left: 49px;
+    justify-content: center;
+    align-items: center;
+}
+.Blue-colour{
+    flex: 1;
+   
+   
+
+}
+.Blue-colour img{
+    width: 120px;
+    height: 70px;
+   
+    
+}
+.Blue-colour p{
+    font-size: 14px;
+    margin: 0%;
+    padding: 0%;
+    padding-left: 10px;
+}
+.Green-colour{
+    flex: 1;
+    padding-left: 10px;
+    
+
+}
+.Green-colour img{
+    width: 120px;
+    height: 70px;
+    
+
+}
+.Green-colour p{
+    font-size: 14px;
+    margin: 0%;
+    padding: 0%
+
+
+}
+.Mr-clean-colour{
+    flex: 1;
+
+}
+.Mr-clean-colour img{
+    width: 120px;
+    height: 70px;
+
+}
+.Mr-clean-colour p{
+    font-size: 14px;
+    margin: 0%;
+    padding-left:35px;
+
+}
+.right-arrow{
+   height: 20px;
+   padding-top: 10px;
+}
+.GT-650-Make-It-Yours{
+    position: relative;
+
+}
+.GT-650-Make-It-Yours img{
+    height: 100%;
+    width: 100%;
+   margin-top: -5px;
+
+}
+.GT-650-Make-It-Yours-Text h2{
+    position: absolute;
+    width: 350px;
+    font-weight: 600;
+    color: #fff;
+    font-size: 24px;
+    line-height: 28px;
+    margin: 0%;
+    top: 250px;
+    left: 1086px;
+    right: 10px;
+    margin-bottom: 0px;
+
+}
+.GT-650-Make-It-Yours-Text p{
+    position: absolute;
+    width: 327px;
+    font-weight: normal;
+    color: #fff;
+    font-size: 14px;
+    line-height: 22px;
+    margin: 0%;
+    top: 295px;
+    left: 1086px;
+    right: 10px;
+
+}
+.GT-650-Make-It-Yours-button{
+    position: absolute;
+    padding: 10px 0px 10px 0px;
+    border-width: 1.0px;
+    border-color: #fff;
+    font-weight:600;
+    font-size: 15px;
+    width: 156px;
+    margin: 30px 0 50px;
+    border-style: double;
+    top: 370px;
+    left: 1086px;
+    right: 10px;
+    background: transparent;
+    color: #fff;
+    
+}
+.GT-650-Make-It-Yours-button:hover{
+    background-color: #fff;
+    color: #000;
+}
+.Media-Reviews{
+    
+   margin-top: -5px;
+    background-color:  #212121;
+    padding-bottom: 5px;
+}
+.Media-Reviews-Header h2{
+    background-color:  #212121;
+    color: #fff;
+    text-align: center; 
+    text-align: center;
+    font-size: 23px;
+    margin: 0%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    
+}
+.Media-Reviews-image-text{
+    position: relative;
+
+}
+.Media-Reviews img{
+    height: 356px;
+    margin-bottom: -15px;
+}
+.Media-Reviews-image-text h2{
+    width: 350px;
+    font-size: 24px;
+    top: 52px;
+    left: 1043px;
+    position: absolute;
+    color: #fff;
+    margin: 0%;
+}
+.Media-Reviews-image-text h6{
+    top: 200px;
+    left: 1043px;
+    position: absolute;
+    color: #fff;
+    font-size: 14px;
+}
+.Media-Reviews-knowmore-button{
+    position: absolute;
+    padding: 10px 0px 10px 0px;
+    border-width: 1.0px;
+    border-color: #fff;
+    font-weight:600;
+    font-size: 15px;
+    width: 156px;
+    border-style: double;
+    top: 270px;
+    left: 1043px;
+    background: transparent;
+    color: #fff;
+    margin: 0%;
+}
+.Media-Reviews-knowmore-button:hover{
+    background-color: #fff;
+    color: #000;
+
+}
+.Media-Reviews-viewallreviews-button{
+    position: absolute;
+    padding: 10px 0px 10px 0px;
+    border-width: 1.0px;
+    border-color: #fff;
+    font-weight:600;
+    font-size: 15px;
+    width: 156px;
+    border-style: double;
+    top: 270px;
+    left: 1202px;
+    background: transparent;
+    color: #fff;
+    margin: 0%;
+
+}
+.Media-Reviews-viewallreviews-button:hover{
+    background-color: #fff;
+    color: #000;
+
+}
+.Photos-GT-650{
+    margin-top: 0;
+    background-color:  #212121;
+    padding-bottom: 5px;
+   
+
+}
+.Photos-GT-650-header h2{
+    background-color:  #212121;
+    color: #fff;
+    text-align: center; 
+    text-align: center;
+    font-size: 23px;
+    margin: 0%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.Gallary-Images{
+    display: flex;
+}
+.Full-view img{
+    flex: 1;
+    height: 380px;
+}
+.Back-headlight-view img{
+    flex: 1;
+    height: 380px;
+
+}
+.Engine-side-view img{
+    flex: 1;
+    height: 380px;
+
+}
+.Seat-view img{
+    flex: 1;
+    height: 380px;
+    width: 378px;
+
+}
+.Gallary-Images2{
+    display: flex;
+    margin-top: -5px;
+    padding-bottom: 5px;
+}
+.Img1 img{
+    flex: 1;
+    height: 380px;
+
+
+}
+.Img2 img{
+    flex: 1;
+    height: 380px;
+
+
+}
+.Img3 img{
+    flex: 1;
+    height: 380px;
+
+
+}
+.Img4 img{
+    flex: 1;
+    height: 380px;
+    width: 378px;
+
+}
+.Recommaded-Gear-Header h2{
+    background-color:  #212121;
+    color: #fff;
+    text-align: center;
+    font-size: 23px;
+    margin: 0%;
+    padding-bottom: 15px;
+}
+.Recommanded-Gear-Image img{
+    width: 100%;
+    height: 100%;
+}
+.Recommanded-Gear-Image{
+    position: relative;
+}
+.Recommanded-Gear-Image h2{
+    position: absolute;
+    width: 350px;
+    font-weight: 600;
+    color: #fff;
+    font-size: 24px;
+    line-height: 28px;
+    margin: 0%;
+    top: 270px;
+    left: 1086px;
+    right: 10px;
+    margin-bottom: 0px;
+}
+.Recommanded-Gear-Image p{
+    position: absolute;
+    width: 327px;
+    font-weight: normal;
+    color: #fff;
+    font-size: 14px;
+    line-height: 22px;
+    margin: 0%;
+    top: 316px;
+    left: 1086px;
+    right: 10px;
+
+}
+.Recommanded-Gear-Image button{
+    position: absolute;
+    padding: 10px 0px 10px 0px;
+    border-width: 1.0px;
+    border-color: #fff;
+    font-weight:600;
+    font-size: 15px;
+    width: 156px;
+    margin: 30px 0 50px;
+    border-style: double;
+    top: 370px;
+    left: 1086px;
+    right: 10px;
+    background: transparent;
+    color: #fff;
+}
+.Recommanded-Gear-Image button:hover{
+    background-color: #fff;
+    color: #000;
+
+}
+.Explore-Continental-GT-Cup{
+margin-top: -5px;
+
+
+}
+.Explore-Continental-GT-Cup-Header h2{
+    background-color: #202021;
+    color: #fff;
+    text-align: center;
+    font-size: 23px;
+    margin: 0%;
+    padding-bottom: 15px;
+    padding-top: 10px;
+
+}
+.Explore-Continental-GT-Cup-Image img{
+    width: 100%;
+}
+.Explore-Continental-GT-Cup-Image{
+    position: relative;
+}
+.Explore-Continental-GT-Cup-Image button{
+    position: absolute;
+    padding: 10px 0px 10px 0px;
+    border-width: 1.0px;
+    border-color: #fff;
+    font-weight:600;
+    font-size: 15px;
+    width: 120px;
+    margin: 30px 0 50px;
+    border-style: double;
+    top: 465px;
+    left: 1086px;
+    right: 10px;
+    color: #000;
+    background-color: #ffff;
+
+}
+.Categories-Continetal-GT{
+    display: flex;
+    line-height: 22px;
+    margin-top: -5px;
+}
+.Categories{
+   
+    width: 400px;
+    background: #d5d5d5;
+    float: left;
+    padding-bottom: 50px;
+
+}
+.Categories-Main{
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.Categories h2{
+    font-size: 24px;
+    margin: 0%;
+    line-height: 28px;
+    color:#202021 ;
+    padding-top: 70px;
+}
+.Categories p{
+    margin-top: 20px;
+    font-size: 14px;
+   
+
+}
+.continental-gt-box {
+    width: 320px;
+    border-bottom: 1px solid #212121;
+}
+.continental-gt-box h4{
+    color: #d1291c;
+    padding-top: 20px;
+    padding: 20px 0;
+    margin: 0;
+   
+
+}
+.continental-GT-Info{
+    float:left;
+    width:1020px;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.continental-GT-Info-Header{
+    font-size: 24px;
+    line-height: 28px;
+    padding-bottom: 30px;
+    margin: 0;
+}
+.continental-GT-Info ul{
+margin: 0%;
+padding: 0%;
+}
+.continental-GT-Info ul li{
+    list-style: none;
+    margin: 0%;
+}
+.continental-GT-Info ul li h2{
+    font-size: 18px;
+    padding:30px 50px 30px 0;
+    margin: 0%;
+    border-bottom: 1px solid #212121;
+}
+.second-footer{
+    background-color: #212121;
+    padding-top: 25px;
+    padding-bottom: 10px;
+    
+    
+}
+.second-footer-container{
+    margin-left: 248px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    display: flex;
+    height: 150px;
+    background-color: #212121;
+    
+}
+.book-a-test-ride-second-footer{
+   
+    width: 200px;
+}
+.book-a-test-ride-second-footer img{
+padding-left: 15px;
+
+}
+.book-a-test-ride-second-footer h5{
+    
+    margin: 0;
+    font-size: 16px;
+    width: 140px;
+    padding-top: 3px;
+}
+.book-a-test-ride-second-footer h5 a{
+    text-decoration: none;
+    color: #b4b2b2;
+    width: 140px;
+    margin: 0;
+}
+.book-a-test-ride-second-footer h5 a:hover{
+    color: #d1291c;
+}
+.find-a-store-second-footer{
+   
+    padding-left: 100px;
+}
+.find-a-store-second-footer h5{
+    margin: 0;
+    font-size: 16px;
+    padding-top: 5px;
+    padding-left: 13px;
+    
+
+}
+.find-a-store-second-footer h5 a{
+    text-decoration: none;
+    color: #b4b2b2;
+
+}
+.find-a-store-second-footer  h5 a:hover{
+    color: #d1291c;
+}
+.ride-out-second-footer{
+    width: 200px;
+    padding-left: 150px;
+}
+.ride-out-second-footer h5{
+    margin: 0;
+    font-size: 16px;
+    padding-top: 5px;
+    padding-left: 27px;
+    
+
+}
+.ride-out-second-footer  h5 a{
+    text-decoration: none;
+    color: #b4b2b2;
+}
+.ride-out-second-footer h5 a:hover{
+    color: #d1291c;
+
+}
+.book-a-service-second-footer{
+    width: 200px;
+    padding-left: 50px;
+}
+.book-a-service-second-footer h5{
+    margin: 0;
+    font-size: 16px;
+    padding-top: 10px;
+   
+
+}
+.book-a-service-second-footer h5 a{
+    text-decoration: none;
+    color: #b4b2b2;
+
+}
+.book-a-service-second-footer h5 a:hover{
+    color: #d1291c;
+}
+.book-a-service-second-footer img{
+    padding-top:  10px;
+}
+.Social-Medias{
+    display: flex;
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color:#e5e3e3;
+   
+
+    
+}
+.Social-Medias-none-conatainer{
+    flex: 1;
+    width: 50%;
+    float: right;
+    
+
+}
+.Social-Medias-conatainer{
+    flex: 1;
+    
+}
+.Social-Medias-conatainer ul li{
+    list-style: none;
+    margin: 0%;   
+    display: inline-block;
+    float: right;
+    padding-left: 20px;
+}
+.Social-Medias-conatainer ul{
+    margin: 0%;
+}
+.Social-Medias-conatainer ul li h6{
+    margin: 0;
+    font-size: 10px;
+}
+.Social-Medias-conatainer ul li h6{
+    font-size: 14px;
+    padding-top: 7px;
+}
+.Main-footer{
+    display: flex;
+    border-top: solid thin #bababa;
+    border-bottom: solid thin #bababa;
+    padding: 35px 35px 30px;
+    line-height: 18px;
+    background-color:#e5e3e3;
+    
+
+}
+.Motorcycles{
+   
+    flex-wrap: wrap;
+    
+   
+    
+}
+
+.Motorcycles h6 {
+    font-size: 20px;
+    color: #000;
+    margin: 0 0 15px;
+}
+.Motorcycles ul{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    line-height: normal;
+}
+.Motorcycles li{
+    float: none;
+    padding: 0;
+    line-height: 33px;
+
+}
+.Motorcycles ul li a{
+    font-size: 14px;
+    line-height: 18px;
+    text-decoration: none;
+    color: #000;
+    font-size: 13px;
+    font-weight: 600;
+}
+.Motorcycles ul li a:hover{
+    color: #d1291c;
+
+}
+.Rides-Events-main{
+    margin-left: 80px;
+    max-width: 100%;
+}
+.Rides-Events-main h6{
+    font-size: 20px;
+    color: #000;
+    margin: 0 0 15px;
+}
+.Rides-Events-main ul{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    line-height: normal;
+}
+.Rides-Events-main li{
+    float: none;
+    padding: 0;
+    line-height: 33px;
+
+}
+.Rides-Events-main ul li a{
+    font-size: 14px;
+    line-height: 18px;
+    text-decoration: none;
+    color: #000;
+    font-size: 13px;
+    font-weight: 600;
+}
+.Rides-Events-main ul li a:hover{
+    color: #d1291c;
+
+}
+.Support-Main-footer{
+    margin-left: 80px;
+    max-width: 100%;
+}
+.Support-Main-footer h6{
+    font-size: 20px;
+    color: #000;
+    margin: 0 0 15px;
+}
+.Support-Main-footer ul{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    line-height: normal;
+}
+.Support-Main-footer li{
+    float: none;
+    padding: 0;
+    line-height: 33px;
+
+}
+.Support-Main-footer ul li a{
+    font-size: 14px;
+    line-height: 18px;
+    text-decoration: none;
+    color: #000;
+    font-size: 13px;
+    font-weight: 600;
+}
+.Support-Main-footer ul li a:hover{
+    color: #d1291c;
+
+}
+.About-as-Main{
+    margin-left: 80px;
+    max-width: 100%;
+}
+.About-as-Main h6{
+    font-size: 20px;
+    color: #000;
+    margin: 0 0 15px;
+}
+.About-as-Main ul{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    line-height: normal;
+}
+.About-as-Main li{
+    float: none;
+    padding: 0;
+    line-height: 33px;
+
+}
+.About-as-Main ul li a{
+    font-size: 14px;
+    line-height: 18px;
+    text-decoration: none;
+    color: #000;
+    font-size: 13px;
+    font-weight: 600;
+}
+.About-as-Main ul li a:hover{
+    color: #d1291c;
+
+}
+.News-and-Media{
+    margin-left: 80px;
+    max-width: 100%;
+}
+.News-and-Media h6{
+    font-size: 20px;
+    color: #000;
+    margin: 0 0 15px;
+}
+.News-and-Media ul{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    line-height: normal;
+}
+.News-and-Media li{
+    float: none;
+    padding: 0;
+    line-height: 33px;
+
+}
+.News-and-Media ul li a{
+    font-size: 14px;
+    line-height: 18px;
+    text-decoration: none;
+    color: #000;
+    font-size: 13px;
+    font-weight: 600;
+}
+.News-and-Media ul li a:hover{
+    color: #d1291c;
+
+}
+.Carrers-Main{
+    margin-left: 80px;
+    max-width: 100%;
+}
+.Carrers-Main h6{
+    font-size: 20px;
+    color: #000;
+    margin: 0 0 15px;
+}
+.Carrers-Main ul{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    line-height: normal;
+}
+.Carrers-Main li{
+    float: none;
+    padding: 0;
+    line-height: 33px;
+
+}
+.Carrers-Main ul li a{
+    font-size: 14px;
+    line-height: 18px;
+    text-decoration: none;
+    color: #000;
+    font-size: 13px;
+    font-weight: 600;
+}
+.Carrers-Main ul li a:hover{
+    color: #d1291c;
+
+}
+.Our-World{
+    margin-left: 80px;
+    max-width: 100%;
+}
+.Our-World h6{
+    font-size: 20px;
+    color: #000;
+    margin: 0 0 15px;
+}
+.Our-World ul{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    line-height: normal;
+}
+.Our-World li{
+    float: none;
+    padding: 0;
+    line-height: 33px;
+
+}
+.Our-World ul li a{
+    font-size: 14px;
+    line-height: 18px;
+    text-decoration: none;
+    color: #000;
+    font-size: 13px;
+    font-weight: 600;
+}
+.Our-World ul li a:hover{
+    color: #d1291c;
+
+}
+.final-footer{
+    display: flex;
+    padding: 5px 15px;
+    background-color:#e5e3e3;
+    
+}
+.copy-write-policy{
+    box-flex: 0;
+    -ms-flex: 0 0 33.333333%;
+    flex: 0 0 33.333333%;
+    max-width: 33.333333%;
+}
+.copy-write-policy p{
+    color: #000;
+    font-size: 10px;
+    margin: 0;
+    padding: 12px 7px;
+}
+.terms-and-condition{
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 66.666667%;
+    flex: 0 0 66.666667%;
+    max-width: 66.666667%;
+    text-align: right;
+}
+.terms-and-condition li{
+    float: left;
+    margin: 0;
+    padding: 4px 7px;
+    position: relative;
+}
+.terms-and-condition ul{
+    width: auto;
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    line-height: normal;
+
+}
+.terms-and-condition ul li a{
+    font-size: 10px;
+    cursor: pointer;
+    color: #000;
+    display: inline-block;
+    text-decoration: none;
+
+
+}
+.terms-and-condition ul li a:hover{
+    color: #d1291c;
+
+}
